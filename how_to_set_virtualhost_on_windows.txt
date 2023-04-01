@@ -1,0 +1,8 @@
+Add name virtualhost to hosts file
+
+127.0.0.1 ihavesite.local
+127.0.0.1 ihavecpuadmin.local
+127.0.0.1 ihavecpushopadmin.local
+
+in folder 
+C:\Windows\System32\drivers\etc
